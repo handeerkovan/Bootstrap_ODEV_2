@@ -1,2 +1,2 @@
-# Bootstrap_ODEV_2
+# INSTAGRAM CLONE
 Patika.dev - Frontend Patikası - Bootstrap eğitimi - Ödev 2
