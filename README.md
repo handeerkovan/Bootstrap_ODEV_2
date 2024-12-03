@@ -1,2 +1,2 @@
-# INSTAGRAM CLONE
-Patika.dev - Frontend Patikası - Bootstrap eğitimi - Ödev 2
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
